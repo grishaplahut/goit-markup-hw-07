@@ -280,7 +280,7 @@ a {
   fill: var(--blue);
 }
 
-.modal__header {
+.form-header {
   font-family: Roboto;
   font-style: normal;
   font-weight: 700;
@@ -791,9 +791,6 @@ a {
 }
 
 /* PORTFOLIO PAGE */
-.all-projects {
-  background-color: var(--white);
-}
 
 .project-buttons-list {
   display: flex;
